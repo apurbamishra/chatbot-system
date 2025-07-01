@@ -1,0 +1,83 @@
+{
+
+  "agent_names": [
+    "Jack",
+    "Clive",
+    "Callie",
+    "Marvin",
+    "Vince"
+  ],
+
+  "bot_responses": [
+
+    {
+      "user_input": ["hi", "hello", "hey", "howdy", "good morning", "good evening", "nice", "meet", "you"],
+      "bot_response": "Hey! I am here to help. What can I assist you with today?"
+    },
+
+    {
+      "user_input": ["location", "campus","university"],
+      "bot_response": "The University of Poppleton is located at Maple Avenue, Brooklyn, New York."
+    },
+
+    {
+      "user_input": ["courses", "programs"],
+      "bot_response": "We offer a variety of programs inic Computer Science, Business Administration, Fashion Design, and Engineering."
+    },
+
+    {
+      "user_input": ["admission", "requirements", "criteria", "eligibility", "factors"],
+      "bot_response": "Admission requirements vary by program. For Computer Science, a minimum of 55% in relevant subjects in High School. For Business Administration, a minimum GPA of 2.50 GPA is required. For Fashion Design, a minimum of 2.00 GPA is required. For Engineering, a minimum of 3.00 GPA is required with a strong foundation in mathematics."
+    },
+    
+    {
+      "user_input": ["clubs", "activities", "extracurriculars", "events", "student life"],
+      "bot_response": "We offer a wide range of student clubs and extracurricular activities, including sports, arts, music, debate, and tech societies. It is the mandatory factor for students to participate in at least one of the clubs or activities as a part of their curiculum."
+    },
+
+    {
+      "user_input": ["facilities", "campus", "gym", "library"],
+      "bot_response": "Our campus offers essential facilities, including a gym, a well-equipped library, fully operated computer labs, fully equipped science laboratories, and spacious basketball and football courts."
+    },
+
+    {
+      "user_input": ["housing", "accommodation", "stay"],
+      "bot_response": "Unfortunately, We do not offer on-campus housing for students. However, we can provide information on off-campus housing options near the campus area."
+    },
+
+    {
+      "user_input": ["online", "courses", "learning"],
+      "bot_response": "We offer online learning programs in Business Administration, focusing on Investment and Accounting only."
+    },
+
+    {
+      "user_input": ["part-time", "jobs", "internships", "internship", "job"],
+      "bot_response": "There are several part-time job opportunities on and off-campus, and we also offer internship placements in fields related to student interests."
+    },
+
+    {
+      "user_input" : ["ok", "alright", "fine", "yes", "okay"],
+      "bot_response" : "Great! Do you have any other questions?"
+    }
+
+  ],
+
+  "random_responses": [
+    "Sorry, I did not undestand your question. Could you please clarify?",
+    "I am not sure about that question right now. You can contact the admission department for further information.",
+    "Sorry, I do not have that information, but I can help with other questions!",
+    "I'm not sure I understand, but I will try to find out for you.",
+    "I apologize for the confusion. Could you ask in more detail?"
+  ],
+
+  "exit_commands": [
+    "bye",
+    "quit",
+    "exit",
+    "goodbye",
+    "see you",
+    "byebye"
+  ]
+
+
+}
