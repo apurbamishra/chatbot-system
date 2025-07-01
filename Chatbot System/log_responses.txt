@@ -1,0 +1,184 @@
+user question: hibot response: Hey! I am here to help. What can I assist you with today?-----------------------------------------------user question: how are youbot response: Hey! I am here to help. What can I assist you with today?-----------------------------------------------user question: what is the admission processbot response: Admission requirements vary by program. For Computer Science, a minimum of 55% in relevant subjects in High School. For Business Administration, a minimum GPA of 2.50 GPA is required. For Fashion Design, a minimum of 2.00 GPA is required. For Engineering, a minimum of 3.00 GPA is required with a strong foundation in mathematics.-----------------------------------------------user question: is there any job bot response: There are several part-time job opportunities on and off-campus, and we also offer internship placements in fields related to student interests.-----------------------------------------------user question: okbot response: Great! Do you have any other questions?-----------------------------------------------user question: hi
+bot response: Hey! I am here to help. What can I assist you with today?-----------------------------------------------user question: how are you
+bot response: Hey! I am here to help. What can I assist you with today?-----------------------------------------------user question: what is the admission requirements here
+bot response: Admission requirements vary by program. For Computer Science, a minimum of 55% in relevant subjects in High School. For Business Administration, a minimum GPA of 2.50 GPA is required. For Fashion Design, a minimum of 2.00 GPA is required. For Engineering, a minimum of 3.00 GPA is required with a strong foundation in mathematics.-----------------------------------------------user question: ok
+bot response: Great! Do you have any other questions?-----------------------------------------------user question: hi
+bot response: Hey! I am here to help. What can I assist you with today?
+-----------------------------------------------user question: how are you
+bot response: Hey! I am here to help. What can I assist you with today?
+-----------------------------------------------user question: where is the location
+bot response: The University of Poppleton is located at Maple Avenue, Brooklyn, New York.
+-----------------------------------------------user question: nice
+bot response: Hey! I am here to help. What can I assist you with today?
+-----------------------------------------------user question: ok
+bot response: Great! Do you have any other questions?
+-----------------------------------------------user question: fafa
+bot response: Sorry, I do not have that information, but I can help with other questions!
+-----------------------------------------------user question: hi
+bot response: Hey! I am here to help. What can I assist you with today?
+user question: how are you
+bot response: Hey! I am here to help. What can I assist you with today?
+user question: afdsf
+bot response: I'm not sure I understand, but I will try to find out for you.
+user question: fdsfasdf
+bot response: I am not sure about that question right now. You can contact the admission department for further information.
+user question: asdfasdfas
+bot response: I am not sure about that question right now. You can contact the admission department for further information.
+user question: asdfasdf
+bot response: Sorry, I do not have that information, but I can help with other questions!
+user question: hi
+bot response: Hey! I am here to help. What can I assist you with today?
+user question: how are you
+bot response: Hey! I am here to help. What can I assist you with today?
+user question: hi
+bot response: Hey! I am here to help. What can I assist you with today?
+user question: how are you
+bot response: Hey! I am here to help. What can I assist you with today?
+user question: bye
+bot response: Hey! I am here to help. What can I assist you with today?
+user question: hi
+bot response: Hey! I am here to help. What can I assist you with today?
+user question: how are you
+bot response: Hey! I am here to help. What can I assist you with today?
+user question: bye
+bot response: Vince: Thank you for your time! Hoping to meet you again!
+user question: hi
+bot response: Hey! I am here to help. What can I assist you with today?
+user question: location
+bot response: The University of Poppleton is located at Maple Avenue, Brooklyn, New York.
+user question: ,
+bot response: I apologize for the confusion. Could you ask in more detail?
+user question: no
+bot response: I apologize for the confusion. Could you ask in more detail?
+user question: ok
+bot response: Great! Do you have any other questions?
+user question: bye
+bot response: Clive: Thank you for your time! Hoping to meet you again!
+user question: scholorship
+bot response: Hey! I am here to help. What can I assist you with today?
+user question: bye
+bot response: Jack: Thank you for your time! Hoping to meet you again!
+user question: hi
+bot response: Hey! I am here to help. What can I assist you with today?
+user question: how are you
+bot response: Hey! I am here to help. What can I assist you with today?
+user question: where is the location
+bot response: The University of Poppleton is located at Maple Avenue, Brooklyn, New York.
+user question: how is the overall student life
+bot response: We offer a wide range of student clubs and extracurricular activities, including sports, arts, music, debate, and tech societies. It is the mandatory factor for students to participate in at least one of the clubs or activities as a part of their curiculum.
+user question: nice
+bot response: Hey! I am here to help. What can I assist you with today?
+user question: ok
+bot response: Great! Do you have any other questions?
+user question: ss
+bot response: I apologize for the confusion. Could you ask in more detail?
+user question: bye
+bot response: Vince: Thank you for your time! Hoping to meet you again!
+user question: hi
+bot response: Hey! I am here to help. What can I assist you with today?
+user question: bye
+bot response: Jack: Thank you for your time! Hoping to meet you again!
+user question: hi
+bot response: Hey! I am here to help. What can I assist you with today?
+user question: how are you
+bot response: Hey! I am here to help. What can I assist you with today?
+user question: bye
+bot response: Vince: Thank you for your time! Hoping to meet you again!
+user question: hi
+bot response: Hey! I am here to help. What can I assist you with today?
+user question: jobs
+bot response: There are several part-time job opportunities on and off-campus, and we also offer internship placements in fields related to student interests.
+user question: ok
+bot response: Great! Do you have any other questions?
+user question: no
+bot response: I apologize for the confusion. Could you ask in more detail?
+user question: bye
+bot response: Marvin: Thank you for your time! Hoping to meet you again!
+user question: hi
+bot response: Hey! I am here to help. What can I assist you with today?
+user question: how are you
+bot response: Hey! I am here to help. What can I assist you with today?
+user question: where is the location 
+bot response: The University of Poppleton is located at Maple Avenue, Brooklyn, New York.
+user question: ok
+bot response: Great! Do you have any other questions?
+user question: bye
+bot response: Vince: Thank you for your time! Hoping to meet you again!
+user question: hi
+bot response: Hey! I am here to help. What can I assist you with today?
+user question: how are you
+bot response: Hey! I am here to help. What can I assist you with today?
+user question: ok
+bot response: Great! Do you have any other questions?
+user question: bye
+bot response: Clive: Thank you for your time! Hoping to meet you again!
+user question: hi
+bot response: Hey! I am here to help. What can I assist you with today?
+user question: how are you?
+bot response: Hey! I am here to help. What can I assist you with today?
+user question: where is the location?
+bot response: The University of Poppleton is located at Maple Avenue, Brooklyn, New York.
+user question: are there any scholorship?
+bot response: Hey! I am here to help. What can I assist you with today?
+user question: ok
+bot response: Great! Do you have any other questions?
+user question: bye
+bot response: Clive: Thank you for your time! Hoping to meet you again!
+user question: hey
+bot response: Hey! I am here to help. What can I assist you with today?
+user question: nice to meet you
+bot response: Hey! I am here to help. What can I assist you with today?
+user question: where is the location 
+bot response: The University of Poppleton is located at Maple Avenue, Brooklyn, New York.
+user question: tell me the location 
+bot response: The University of Poppleton is located at Maple Avenue, Brooklyn, New York.
+user question: what is the admission requirements
+bot response: Admission requirements vary by program. For Computer Science, a minimum of 55% in relevant subjects in High School. For Business Administration, a minimum GPA of 2.50 GPA is required. For Fashion Design, a minimum of 2.00 GPA is required. For Engineering, a minimum of 3.00 GPA is required with a strong foundation in mathematics.
+user question: can we stay there
+bot response: Unfortunately, We do not offer on-campus housing for students. However, we can provide information on off-campus housing options near the campus area.
+user question: what are the programs
+bot response: We offer a variety of programs inic Computer Science, Business Administration, Fashion Design, and Engineering.
+user question: any online courses
+bot response: We offer a variety of programs inic Computer Science, Business Administration, Fashion Design, and Engineering.
+user question: ok
+bot response: Great! Do you have any other questions?
+user question: fine
+bot response: Sorry, I did not undestand your question. Could you please clarify?
+user question: sdf
+bot response: Sorry, I did not undestand your question. Could you please clarify?
+user question: bye
+bot response: Callie: Thank you for your time! Hoping to meet you again!
+user question: hello
+bot response: Hey! I am here to help. What can I assist you with today?
+user question: what are the courses here
+bot response: We offer a variety of programs inic Computer Science, Business Administration, Fashion Design, and Engineering.
+user question: any online course
+bot response: We offer online learning programs in Business Administration, focusing on Investment and Accounting only.
+user question: where can i stay
+bot response: Unfortunately, We do not offer on-campus housing for students. However, we can provide information on off-campus housing options near the campus area.
+user question: fine
+bot response: Great! Do you have any other questions?
+user question: well what about the location
+bot response: The University of Poppleton is located at Maple Avenue, Brooklyn, New York.
+user question: ssgt
+bot response: Sorry, I do not have that information, but I can help with other questions!
+user question: ejt
+bot response: Sorry, I do not have that information, but I can help with other questions!
+user question: ifhgf
+bot response: I apologize for the confusion. Could you ask in more detail?
+user question: ok
+bot response: Great! Do you have any other questions?
+user question: see you
+bot response: Clive: Thank you for your time! Hoping to meet you again!
+user question: hello
+bot response: Hey! I am here to help. What can I assist you with today?
+user question: how are you
+bot response: Hey! I am here to help. What can I assist you with today?
+user question: housing facilities
+bot response: Our campus offers essential facilities, including a gym, a well-equipped library, fully operated computer labs, fully equipped science laboratories, and spacious basketball and football courts.
+user question: admission requirements
+bot response: Admission requirements vary by program. For Computer Science, a minimum of 55% in relevant subjects in High School. For Business Administration, a minimum GPA of 2.50 GPA is required. For Fashion Design, a minimum of 2.00 GPA is required. For Engineering, a minimum of 3.00 GPA is required with a strong foundation in mathematics.
+user question: ok
+bot response: Great! Do you have any other questions?
+user question: bye
+bot response: Vince: Thank you for your time! Hoping to meet you again!
